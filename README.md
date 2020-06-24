@@ -3,7 +3,7 @@ This is a template project for Android Studio that allows you to create an andro
 
 ### Getting started
 
-[Download](https://github.com/slymax/webview/archive/master.zip) or clone this repository and import it into Android Studio.
+[Download](https://github.com/vaibhavhariaramani/Android-Development-Simple-WebView/archive/master.zip) or clone this repository and import it into Android Studio.
 
 ### Using a remote source
 
